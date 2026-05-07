@@ -1,0 +1,48 @@
+# Oviedo
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://oviedo.geotecnia.vip/aislacion-sismica/)
+- [Capacidad De Carga](https://oviedo.geotecnia.vip/capacidad-de-carga/)
+- [Cimentaciones](https://oviedo.geotecnia.vip/cimentaciones/)
+- [Cimentaciones Rellenos](https://oviedo.geotecnia.vip/cimentaciones-rellenos/)
+- [Clasificacion Suelos](https://oviedo.geotecnia.vip/clasificacion-suelos/)
+- [Compresion Simple](https://oviedo.geotecnia.vip/compresion-simple/)
+- [Ensayo Spt](https://oviedo.geotecnia.vip/ensayo-spt/)
+- [Ensayos In Situ](https://oviedo.geotecnia.vip/ensayos-in-situ/)
+- [Estabilidad Taludes](https://oviedo.geotecnia.vip/estabilidad-taludes/)
+- [Estabilizacion Taludes](https://oviedo.geotecnia.vip/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://oviedo.geotecnia.vip/estudio-mecanica-suelos/)
+- [Excavaciones Profundas](https://oviedo.geotecnia.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://oviedo.geotecnia.vip/excavaciones-subterraneas/)
+- [Exploracion](https://oviedo.geotecnia.vip/exploracion/)
+- [Factor Seguridad](https://oviedo.geotecnia.vip/factor-seguridad/)
+- [Falla Taludes](https://oviedo.geotecnia.vip/falla-taludes/)
+- [Flujos Detritos](https://oviedo.geotecnia.vip/flujos-detritos/)
+- [Geofisica](https://oviedo.geotecnia.vip/geofisica/)
+- [Georradar Gpr](https://oviedo.geotecnia.vip/georradar-gpr/)
+- [Geotecnia Vial](https://oviedo.geotecnia.vip/geotecnia-vial/)
+- [Infiltracion](https://oviedo.geotecnia.vip/infiltracion/)
+- [Laboratorio](https://oviedo.geotecnia.vip/laboratorio/)
+- [Licuefaccion](https://oviedo.geotecnia.vip/licuefaccion/)
+- [Masw Vs30](https://oviedo.geotecnia.vip/masw-vs30/)
+- [Mejoramiento](https://oviedo.geotecnia.vip/mejoramiento/)
+- [Muros Contencion](https://oviedo.geotecnia.vip/muros-contencion/)
+- [Permeabilidad Laboratorio](https://oviedo.geotecnia.vip/permeabilidad-laboratorio/)
+- [Pilotes Hincados](https://oviedo.geotecnia.vip/pilotes-hincados/)
+- [Precarga](https://oviedo.geotecnia.vip/precarga/)
+- [Precarga Sobrecarga](https://oviedo.geotecnia.vip/precarga-sobrecarga/)
+- [Sismica](https://oviedo.geotecnia.vip/sismica/)
+- [Subrasante Vial](https://oviedo.geotecnia.vip/subrasante-vial/)
+- [Suelos No Saturados](https://oviedo.geotecnia.vip/suelos-no-saturados/)
+- [Suelos Organicos](https://oviedo.geotecnia.vip/suelos-organicos/)
+- [Taludes Y Muros](https://oviedo.geotecnia.vip/taludes-y-muros/)
+- [Veleta Campo](https://oviedo.geotecnia.vip/veleta-campo/)
+
+## Contact
+- Website: https://oviedo.geotecnia.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
