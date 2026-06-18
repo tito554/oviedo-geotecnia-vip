@@ -1,48 +1,50 @@
-# Oviedo
+# Geotecnia — Oviedo
 
-> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+> Geotechnical engineering services in Oviedo, España.
 
 ## Services
 - [Aislacion Sismica](https://oviedo.geotecnia.vip/aislacion-sismica/)
-- [Capacidad De Carga](https://oviedo.geotecnia.vip/capacidad-de-carga/)
+- [Anclajes](https://oviedo.geotecnia.vip/anclajes/)
+- [Calicatas Exploratorias](https://oviedo.geotecnia.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://oviedo.geotecnia.vip/cbr-vial/)
 - [Cimentaciones](https://oviedo.geotecnia.vip/cimentaciones/)
-- [Cimentaciones Rellenos](https://oviedo.geotecnia.vip/cimentaciones-rellenos/)
-- [Clasificacion Suelos](https://oviedo.geotecnia.vip/clasificacion-suelos/)
-- [Compresion Simple](https://oviedo.geotecnia.vip/compresion-simple/)
-- [Ensayo Spt](https://oviedo.geotecnia.vip/ensayo-spt/)
-- [Ensayos In Situ](https://oviedo.geotecnia.vip/ensayos-in-situ/)
+- [Cimentaciones Superficiales](https://oviedo.geotecnia.vip/cimentaciones-superficiales/)
+- [Columnas Grava](https://oviedo.geotecnia.vip/columnas-grava/)
+- [Densidad Cono Arena](https://oviedo.geotecnia.vip/densidad-cono-arena/)
+- [Ensayo Cpt](https://oviedo.geotecnia.vip/ensayo-cpt/)
+- [Ensayo Triaxial](https://oviedo.geotecnia.vip/ensayo-triaxial/)
 - [Estabilidad Taludes](https://oviedo.geotecnia.vip/estabilidad-taludes/)
-- [Estabilizacion Taludes](https://oviedo.geotecnia.vip/estabilizacion-taludes/)
-- [Estudio Mecanica Suelos](https://oviedo.geotecnia.vip/estudio-mecanica-suelos/)
 - [Excavaciones Profundas](https://oviedo.geotecnia.vip/excavaciones-profundas/)
-- [Excavaciones Subterraneas](https://oviedo.geotecnia.vip/excavaciones-subterraneas/)
+- [Excavaciones Subterraneo](https://oviedo.geotecnia.vip/excavaciones-subterraneo/)
 - [Exploracion](https://oviedo.geotecnia.vip/exploracion/)
-- [Factor Seguridad](https://oviedo.geotecnia.vip/factor-seguridad/)
-- [Falla Taludes](https://oviedo.geotecnia.vip/falla-taludes/)
-- [Flujos Detritos](https://oviedo.geotecnia.vip/flujos-detritos/)
 - [Geofisica](https://oviedo.geotecnia.vip/geofisica/)
-- [Georradar Gpr](https://oviedo.geotecnia.vip/georradar-gpr/)
 - [Geotecnia Vial](https://oviedo.geotecnia.vip/geotecnia-vial/)
-- [Infiltracion](https://oviedo.geotecnia.vip/infiltracion/)
-- [Laboratorio](https://oviedo.geotecnia.vip/laboratorio/)
-- [Licuefaccion](https://oviedo.geotecnia.vip/licuefaccion/)
+- [Granulometria](https://oviedo.geotecnia.vip/granulometria/)
+- [Grouting](https://oviedo.geotecnia.vip/grouting/)
+- [Laboratorio In Situ](https://oviedo.geotecnia.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://oviedo.geotecnia.vip/laboratorio-lab/)
+- [Losa De Cimentacion](https://oviedo.geotecnia.vip/losa-de-cimentacion/)
 - [Masw Vs30](https://oviedo.geotecnia.vip/masw-vs30/)
 - [Mejoramiento](https://oviedo.geotecnia.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://oviedo.geotecnia.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://oviedo.geotecnia.vip/monitoreo-excavaciones/)
 - [Muros Contencion](https://oviedo.geotecnia.vip/muros-contencion/)
-- [Permeabilidad Laboratorio](https://oviedo.geotecnia.vip/permeabilidad-laboratorio/)
-- [Pilotes Hincados](https://oviedo.geotecnia.vip/pilotes-hincados/)
-- [Precarga](https://oviedo.geotecnia.vip/precarga/)
-- [Precarga Sobrecarga](https://oviedo.geotecnia.vip/precarga-sobrecarga/)
+- [Pavimento Flexible](https://oviedo.geotecnia.vip/pavimento-flexible/)
+- [Pavimento Rigido](https://oviedo.geotecnia.vip/pavimento-rigido/)
+- [Permeabilidad Campo](https://oviedo.geotecnia.vip/permeabilidad-campo/)
+- [Pilotes](https://oviedo.geotecnia.vip/pilotes/)
+- [Placa De Carga](https://oviedo.geotecnia.vip/placa-de-carga/)
+- [Resistividad Electrica Sev](https://oviedo.geotecnia.vip/resistividad-electrica-sev/)
 - [Sismica](https://oviedo.geotecnia.vip/sismica/)
-- [Subrasante Vial](https://oviedo.geotecnia.vip/subrasante-vial/)
-- [Suelos No Saturados](https://oviedo.geotecnia.vip/suelos-no-saturados/)
-- [Suelos Organicos](https://oviedo.geotecnia.vip/suelos-organicos/)
-- [Taludes Y Muros](https://oviedo.geotecnia.vip/taludes-y-muros/)
-- [Veleta Campo](https://oviedo.geotecnia.vip/veleta-campo/)
+- [Sondaje Spt](https://oviedo.geotecnia.vip/sondaje-spt/)
+- [Taludes](https://oviedo.geotecnia.vip/taludes/)
+- [Tomografia Sismica](https://oviedo.geotecnia.vip/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://oviedo.geotecnia.vip/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://oviedo.geotecnia.vip/vibrocompactacion/)
 
 ## Contact
 - Website: https://oviedo.geotecnia.vip/
 
 ## About
-This page provides information about geotechnical engineering services available in Chile.
-The company complies with local and international standards including ASTM, ISO and country-specific norms.
+This site provides geotechnical engineering services in Oviedo, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
